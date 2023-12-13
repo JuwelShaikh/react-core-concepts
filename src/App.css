@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.pro{
+  background-color:antiquewhite;
+  padding: 2px;
+  margin: 5px;
+  border: 1px dotted #282c34;
+  border-radius: 10px;
+}
